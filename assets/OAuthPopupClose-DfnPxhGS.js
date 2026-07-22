@@ -1,2 +1,0 @@
-import{u as a,R as t,aD as i,j as e,a0 as n}from"./index-BZ3NLU8I.js";const c=()=>{const{language:s}=a();return t.useEffect(()=>{try{localStorage.setItem(i,"success")}catch{}if(window.opener)try{window.opener.postMessage({source:"silan-auth",status:"success"},window.location.origin)}catch{}window.close()},[]),e.jsx("div",{className:"flex min-h-[55dvh] items-center justify-center","aria-live":"polite",children:e.jsx(n,{label:s==="zh"?"正在完成登录":"Finishing sign-in"})})};export{c as default};
-//# sourceMappingURL=OAuthPopupClose-DfnPxhGS.js.map
