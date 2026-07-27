@@ -1,1 +1,0 @@
-const t=()=>typeof window<"u"&&!!window.__SILAN_PRERENDER__,i=e=>{if(typeof e!="string"||!e)return;const n=new Date(e);if(!(Number.isNaN(n.getTime())||n.getUTCFullYear()<=1))return e};export{t as i,i as n};
