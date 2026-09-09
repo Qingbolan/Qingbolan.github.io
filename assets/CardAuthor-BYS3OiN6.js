@@ -1,1 +1,0 @@
-import{j as e,a,A as n}from"./index-osJow9LA.js";const c=({name:s,avatarUrl:r,onCover:t=!1,className:i})=>e.jsxs("span",{className:a("inline-flex items-center gap-1.5",i),children:[e.jsx(n,{src:r,name:s,size:"xs",bordered:!1,className:a("size-4 text-[0.5rem]",t&&"ring-1 ring-white/40")}),s]});export{c as C};
